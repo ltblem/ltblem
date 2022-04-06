@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LetThereBeLemons
-- 👀 I’m interested in game development
+- 👀 I’m interested in game development and operating systems.
 - 🌱 I’m currently learning python
 
 <!---
