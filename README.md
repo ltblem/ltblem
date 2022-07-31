@@ -2,6 +2,4 @@ Hi, I'm LetThereBeLemons <!--or ltbl-->. I'd tell you a bunch of stuff here, but
 
 Anyway, here's a random 500x500 image of a cat:
     
-    
-    
 ![](http://theoldreader.com/kittens/500/500)
