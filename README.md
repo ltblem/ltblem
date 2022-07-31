@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @LetThereBeLemons
-- 👀 I’m interested in game development and operating systems.
-- 🌱 I’m currently learning python
+Hi, I'm LetThereBeLemons <!--or ltbl-->. I'd tell you a bunch of stuff here, but I'm still working on my profile <!--and nearing on a privacy extremist-->.
 
-<!---
-LetThereBeLemons/LetThereBeLemons is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Anyway, here's a random 500x500 image of a cat:
+![](http://theoldreader.com/kittens/500/500)
