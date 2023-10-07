@@ -1,4 +1,4 @@
-Hi, I'm LetThereBeLemons <!--or ltblem-->. I'd tell you a bunch of stuff here, but icba. <!--and nearing on a privacy extremist-->.
+Hi, I'm LetThereBeLemons <!--or ltblem-->. I'd tell you a bunch of stuff here, but icba.
 
 Anyway, here's a random 500x500 image of a cat:
     <!--There's 8 whitespaces on this line to make sure GitHub renders the linebreak properly-->    <!--Strange, I know. Sorry.-->
